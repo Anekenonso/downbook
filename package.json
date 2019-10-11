@@ -1,6 +1,6 @@
 {
   "name": "downbook",
-  "version": "1.0.0",
+  "version": "1.0.q",
   "description": "Download programming ebooks for free!",
   "main": "index.js",
   "bin": "index.js",
